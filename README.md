@@ -234,7 +234,7 @@ Step 16 Continue Setting up osticket in the browser
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.pn](https://i.imgur.com/zD6R6m3.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Congratulations 
