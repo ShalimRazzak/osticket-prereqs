@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP 7.3.8
 - MySQL 5.5.62
 - osTicket v1.15.8
+- Installation files https://drive.google.com/drive/folders/1jP7oYPvIAqQPyzKEP912DiJ1sSUQJmbb?usp=sharing
 
 <h2>Installation Steps</h2>
 
