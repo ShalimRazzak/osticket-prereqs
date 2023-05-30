@@ -214,7 +214,7 @@ Step 14 Continue Setting up osTicket in the browser (click Continue)
 <p>
 <img src="https://i.imgur.com/3T2C9uF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-"https://i.imgur.com/041jQR3.png"
+<img src="https://i.imgur.com/KDBv3F6.png" height="80%" width="80%"
 <p>
 Step 15 Download and install HeidiSQL
 https://drive.google.com/file/d/1RRGvv9V7vnJUFtMhelfk0Gcw38ZgDB1a/view?usp=drive_link
