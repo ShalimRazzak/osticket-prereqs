@@ -48,7 +48,10 @@ Step 1 Create Virtual Machine in Azure
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tVzhLQc.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/toKC8xE.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/ujDJKZW.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/ALh597D.png" height="80%" width="80%" />
 </p>
 <p>
 Step 2 Install / Enable IIS in Windows WITH CGI
@@ -57,7 +60,7 @@ Step 2 Install / Enable IIS in Windows WITH CGI
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NvK35hU.png" height="80%" width="80%" />
 </p>
 <p>
 Step 3 Create the directory C:\PHP
@@ -67,7 +70,7 @@ Step 3 Create the directory C:\PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z3e5wdX.png" height="80%" width="80%" />
 </p>
 <p>
 Step 4 Download and install
@@ -76,7 +79,7 @@ Step 4 Download and install
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LmmaKIZ.png" height="80%" width="80%" />
 </p>
 <p>
 Download and install the Rewrite Module (rewrite_amd64_en-US.msi) https://drive.google.com/file/d/1bF7qvZlsmzSpX2ApytklyoU91P8FdXwg/view?usp=drive_link
@@ -84,7 +87,7 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi) https://drive.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vjVDFcn.png" height="80%" width="80%" />
 </p>
 <p>
 Download and install download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) https://drive.google.com/file/d/1UGPXw3MQ6rU7J7vqVkJIupUo29q-t7ch/view?usp=drive_link
@@ -92,7 +95,7 @@ Download and install download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) https
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ozdxb1f.png" height="80%" width="80%" />
 </p>
 <p>
 Download and install VC_redist.x86.exe (VC_redist.x86.exe) https://drive.google.com/file/d/1B08-Aqn1RKYaP1D_R_JFJnuF78R-9Y5r/view?usp=drive_link
@@ -100,7 +103,9 @@ Download and install VC_redist.x86.exe (VC_redist.x86.exe) https://drive.google.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ggUgsY2.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/FIU4sGf.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/smT3wQg.png" height="80%" width="80%" />
 </p>
 <p>
 Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) https://drive.google.com/file/d/1B08-Aqn1RKYaP1D_R_JFJnuF78R-9Y5r/view?usp=drive_link
@@ -112,7 +117,7 @@ Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) https://drive.google.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b8lfYNC.png" height="80%" width="80%" />
 </p>
 <p>
 Step 5 Open IIS as an Admin 
@@ -120,7 +125,8 @@ Step 5 Open IIS as an Admin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M6bfZa1.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/Kw4uZT2.png" height="80%" width="80%" />
 </p>
 <p>
 Step 6 Register PHP from within IIS 
@@ -128,7 +134,7 @@ Step 6 Register PHP from within IIS
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b8lfYNC.png" height="80%" width="80%" />
 </p>
 <p>
 Step 7 Reload IIS (Open IIS, Stop and Start the server)
@@ -136,7 +142,10 @@ Step 7 Reload IIS (Open IIS, Stop and Start the server)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PCAWafn.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/TTtLiI6.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/xZBsvMl.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/kcgVgp0.png" height="80%" width="80%" />
 </p>
 <p>
 Step 8 Install osTicket v1.15.8 (osTicket-v1.15.8.zip)
