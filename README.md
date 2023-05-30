@@ -34,7 +34,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/50g1Hcp.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/7Vulwy4.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/Qgv7jXo.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/GLzCCn3.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/n7rUSUS.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/nNBebW0.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/mYZUdVh.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/JbqyxL1.png" alt="osTicket logo"/>
 </p>
 <p>
 Step 1 Create Virtual Machine in Azure
