@@ -165,7 +165,12 @@ Step 10 Go to sites -> Default -> osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CEuxr4t.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/V13zEhb.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/i27JyEy.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/mNRHH3C.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/JvXvH1A.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/KDBv3F6.png" height="80%" width="80%" />
 </p>
 <p>
 Step 11 Enable this  extensions
