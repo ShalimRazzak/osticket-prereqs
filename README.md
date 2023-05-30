@@ -180,7 +180,7 @@ Step 11 Enable this  extensions
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RIvZRK6.png" height="80%" width="80%" />
 </p>
 <p>
 Step 12 Rename: ost-config.php 
@@ -189,7 +189,9 @@ Step 12 Rename: ost-config.php
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/adouShK.png" height="80%" width="80%" 
+<img src="https://i.imgur.com/OFvTeKJ.png" height="80%" width="80%"
+<img src="https://i.imgur.com/HR8ygCg.png" height="80%" width="80%"
 </p>
 <p>
 Step 13 Assign Permissions: ost-config.php 
@@ -199,7 +201,7 @@ Step 13 Assign Permissions: ost-config.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F8cZTuw.png" height="80%" width="80%" 
 </p>
 <p>
 Step 14 Continue Setting up osTicket in the browser (click Continue) 
@@ -209,10 +211,10 @@ Step 14 Continue Setting up osTicket in the browser (click Continue)
 <br />
 
 <p>
-<img src="https://i.imgur.com/9w55WkV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9w55WkV.png" height="80%" width="80%" 
 </p>
 <p>
-<img src="https://i.imgur.com/3T2C9uF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3T2C9uF.png" height="80%" width="80%" 
 </p>
 <img src="https://i.imgur.com/KDBv3F6.png" height="80%" width="80%"
 <p>
@@ -226,7 +228,7 @@ https://drive.google.com/file/d/1RRGvv9V7vnJUFtMhelfk0Gcw38ZgDB1a/view?usp=drive
 <br />
 
 <p>
-<img src="https://i.imgur.com/4mQA89F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4mQA89F.png" height="80%" width="80%"
 </p>
 <p>
 Step 16 Continue Setting up osticket in the browser 
@@ -238,7 +240,7 @@ Step 16 Continue Setting up osticket in the browser
 <br />
 
 <p>
-<img src="https://i.imgur.com/zD6R6m3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zD6R6m3.png" height="80%" width="80%" 
 </p>
 <p>
 Congratulations 
