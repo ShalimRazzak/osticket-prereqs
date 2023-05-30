@@ -209,7 +209,10 @@ Step 14 Continue Setting up osTicket in the browser (click Continue)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9w55WkV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/3T2C9uF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 15 Download and install HeidiSQL
@@ -222,7 +225,7 @@ https://drive.google.com/file/d/1RRGvv9V7vnJUFtMhelfk0Gcw38ZgDB1a/view?usp=drive
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4mQA89F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 16 Continue Setting up osticket in the browser 
