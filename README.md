@@ -147,7 +147,7 @@ Step 8 Install osTicket v1.15.8 (osTicket-v1.15.8.zip)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b8lfYNC.png" height="80%" width="80%" />
 </p>
 <p>
 Step 9 Reload IIS, Again (Open IIS, Stop and Start the server) 
@@ -156,7 +156,7 @@ Step 9 Reload IIS, Again (Open IIS, Stop and Start the server)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R4KfM2k.png" height="80%" width="80%" />
 </p>
 <p>
 Step 10 Go to sites -> Default -> osTicket 
@@ -165,6 +165,7 @@ Step 10 Go to sites -> Default -> osTicket
 <br />
 
 <p>
+<img src="https://i.imgur.com/ORDaiw1.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/CEuxr4t.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/V13zEhb.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/i27JyEy.png" height="80%" width="80%" />
