@@ -56,12 +56,12 @@ Step 2 Install / Enable IIS in Windows WITH CGI
 </p>
 <br />
 
-Step 3 Create the directory C:\PHP
-- Create the directory C:\PHP
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Step 3 Create the directory C:\PHP
+- Create the directory C:\PHP
 
 </p>
 <br />
@@ -71,7 +71,7 @@ Step 3 Create the directory C:\PHP
 </p>
 <p>
 Step 4 Download and install
-Download and install (PHPManagerForIIS_V1.5.0.msi) https://drive.google.com/file/d/1VizgW40b2A6ndsOh0RE4sASGbfOa54rg/view?usp=drive_link
+- Download and install (PHPManagerForIIS_V1.5.0.msi) https://drive.google.com/file/d/1VizgW40b2A6ndsOh0RE4sASGbfOa54rg/view?usp=drive_link
 </p>
 <br />
 
@@ -103,7 +103,7 @@ Download and install VC_redist.x86.exe (VC_redist.x86.exe) https://drive.google.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) https://drive.google.com/file/d/1B08-Aqn1RKYaP1D_R_JFJnuF78R-9Y5r/view?usp=drive_link
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) https://drive.google.com/file/d/1B08-Aqn1RKYaP1D_R_JFJnuF78R-9Y5r/view?usp=drive_link
 - Typical Setup -> 
 - Launch Configuration Wizard (after install) -> 
 - Standard Configuration -> 
@@ -172,9 +172,9 @@ Step 10 Enable this  extensions
 - Go back to IIS, sites -> Default -> osTicket 
 - Double-click PHP Manager 
 - Click “Enable or disable an extension” 
-- Enable: php_imap.dll 
-- Enable: php_intl.dll 
-- Enable: php_opcache.dll 
+    - Enable: php_imap.dll 
+    - Enable: php_intl.dll 
+    - Enable: php_opcache.dll 
 - Refresh the osTicket site in your browse, observe the changes
 </p>
 <br />
