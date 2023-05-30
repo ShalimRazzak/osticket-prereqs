@@ -150,7 +150,7 @@ Step 8 Install osTicket v1.15.8 (osTicket-v1.15.8.zip)
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 8 Reload IIS, Again (Open IIS, Stop and Start the server) 
+Step 9 Reload IIS, Again (Open IIS, Stop and Start the server) 
 
 </p>
 <br />
@@ -159,7 +159,7 @@ Step 8 Reload IIS, Again (Open IIS, Stop and Start the server)
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 9 Go to sites -> Default -> osTicket 
+Step 10 Go to sites -> Default -> osTicket 
 - On the right, click “Browse *:80”
 </p>
 <br />
@@ -168,7 +168,7 @@ Step 9 Go to sites -> Default -> osTicket
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 10 Enable this  extensions
+Step 11 Enable this  extensions
 - Go back to IIS, sites -> Default -> osTicket 
 - Double-click PHP Manager 
 - Click “Enable or disable an extension” 
@@ -183,7 +183,7 @@ Step 10 Enable this  extensions
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 11 Rename: ost-config.php 
+Step 12 Rename: ost-config.php 
 - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php 
 - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php 
 </p>
@@ -192,7 +192,7 @@ Step 11 Rename: ost-config.php
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 12 Assign Permissions: ost-config.php 
+Step 13 Assign Permissions: ost-config.php 
 - Disable inheritance -> Remove All 
 - New Permissions -> Everyone -> All
 </p>
@@ -202,7 +202,7 @@ Step 12 Assign Permissions: ost-config.php
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 13 Continue Setting up osTicket in the browser (click Continue) 
+Step 14 Continue Setting up osTicket in the browser (click Continue) 
 - Name Helpdesk 
 - Default email (receives email from customers)
 </p>
@@ -212,7 +212,7 @@ Step 13 Continue Setting up osTicket in the browser (click Continue)
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 14 Download and install HeidiSQL
+Step 15 Download and install HeidiSQL
 https://drive.google.com/file/d/1RRGvv9V7vnJUFtMhelfk0Gcw38ZgDB1a/view?usp=drive_link
 - Open Heidi SQL 
 - Create a new session, root/Password1 
@@ -225,7 +225,7 @@ https://drive.google.com/file/d/1RRGvv9V7vnJUFtMhelfk0Gcw38ZgDB1a/view?usp=drive
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 15 Continue Setting up osticket in the browser 
+Step 16 Continue Setting up osticket in the browser 
 - MySQL Database: osTicket 
 - MySQL Username: root 
 - MySQL Password: Password1 
